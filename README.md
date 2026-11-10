@@ -1,30 +1,32 @@
 # 📊 Portafolio de Business Intelligence & Análisis de Datos
 
-¡Hola! Soy **Brenda Cuenca**, egresada de Ingeniería en Estadística por la Universidad Central del Ecuador. Especializada en la transformación de datos complejos en dashboards ejecutivos de alto impacto mediante **Power BI**, **SQL (Oracle / SQL Server)** y modelado multidimensional.
+¡Hola! Soy **Brenda Cuenca**, egresada de Ingeniería en Estadística por la Universidad Central del Ecuador. Especializada en el diseño e implementación de dashboards estratégicos, automatización de indicadores y modelado de datos en **Power BI**, **SQL** y **Power Query**.
 
 ---
 
 ## 📌 Proyectos Destacados
 
-### 1. 🎓 Dashboard de Gestión Académica & KPIs Universitarios (UHemisferios)
-* **Descripción:** Diseño e implementación de un tablero analítico ejecutivo para la medición de desempeño docente y de facultades, optimizado para la evaluación por decanatos.
+### 1. 📈 Monitoreo de Plan Operativo Anual (POA) & PEDI — Universidad Hemisferios
+* **Descripción:** Desarrollo de un sistema integral de tableros ejecutivos en Power BI para el control y seguimiento en tiempo real del cumplimiento institucional, operativo y presupuestario.
+* **Módulos Principales:**
+  * **Monitoreo POA 2026:** Control de avance de proyectos y actividades, distribución de estados de ejecución (En Proceso, Ejecutado, Atrasado), estatus de alertas y ejecución presupuestaria.
+  * **Matriz de Proyectos PEDI (2025-2030):** Evaluación plurianual del aporte del POA al Plan Estratégico Institucional, control de metas por año y ponderaciones de cumplimiento.
+  * **POA Carreras:** Desglose operativo a nivel de facultades y carreras para el seguimiento detallado de metas académicas.
 * **Aspectos Técnicos:**
-  * Procesamiento de estructuras de datos complejas multi-periodo (**PAO 1 y PAO 2**) con ponderaciones variables por categoría.
-  * Modelado dimensional en **Power Query** para la unificación de métricas heterogéneas.
-  * Creación de medidas **DAX** para el cálculo dinámico de cumplimiento vs. metas y consolidación de KPIs ejecutivos.
+  * Modelado dimensional avanzado y unificación de fuentes de datos mediante **Power Query**.
+  * Creación de medidas y cálculos dinámicos para métricas de avance porcentual y asignación de ponderaciones.
 
 ---
 
-### 2. 🏛️ Visualización & Análisis de Deuda Pública (Ministerio de Economía y Finanzas)
-* **Descripción:** Desarrollo de tableros de control para el monitoreo y seguimiento de indicadores de deuda pública y obligaciones financieras estatales.
+### 2. 🏛️ Visualización & Análisis de Deuda Pública — Ministerio de Economía y Finanzas
+* **Descripción:** Implementación de tableros analíticos orientados al seguimiento de obligaciones financieras del Estado y grandes volúmenes de datos públicos.
 * **Aspectos Técnicos:**
-  * Conexión directa y extracción de datos desde motores **Oracle SQL** mediante consultas optimizadas y vistas analíticas.
-  * Modelado de datos en arquitectura Estrella (Fact & Dimension Tables) para garantizar la consistencia financiera.
-  * Automatización de reportes visuales enfocados en la trazabilidad y rendición de cuentas gerencial.
+  * Extracción de bases de datos mediante consultas optimizadas en **Oracle SQL**.
+  * Diseño de estructuras relacionales para garantizar la integridad y trazabilidad de los indicadores financieros.
 
 ---
 
 ## 🛠️ Stack Tecnológico
-* **Business Intelligence:** Power BI (Power Query M, DAX, RLS, Publicación en Servicio)
-* **Bases de Datos & SQL:** Oracle SQL, SQL Server (T-SQL, Vistas, ETL)
+* **Business Intelligence:** Power BI (Power Query M, DAX, Modelado Dimensional, RLS)
+* **Bases de Datos & SQL:** Oracle SQL, SQL Server (T-SQL, Vistas)
 * **Análisis Estadístico:** R, Python, Excel Avanzado
