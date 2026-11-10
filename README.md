@@ -1,6 +1,15 @@
 # 📊 Portafolio de Business Intelligence & Análisis de Datos
 
-¡Hola! Soy **Brenda Cuenca**, egresada de Ingeniería en Estadística por la Universidad Central del Ecuador. Especializada en el diseño e implementación de dashboards estratégicos, automatización de indicadores y modelado de datos en **Power BI**, **SQL** y **Power Query**.
+¡Hola! Soy **Brenda Cuenca**, egresada de Ingeniería en Estadística por la Universidad Central del Ecuador. Especializada en el diseño e implementación de dashboards estratégicos, automatización de indicadores y modelado de datos.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
 
 ---
 
@@ -14,7 +23,7 @@
   * **POA Carreras:** Desglose operativo a nivel de facultades y carreras para el seguimiento detallado de metas académicas.
 * **Aspectos Técnicos:**
   * Modelado dimensional avanzado y unificación de fuentes de datos mediante **Power Query**.
-  * Creación de medidas y cálculos dinámicos para métricas de avance porcentual y asignación de ponderaciones.
+  * Creación de medidas y cálculos dinámicos en **DAX** para métricas de avance porcentual y asignación de ponderaciones.
 
 ---
 
@@ -29,4 +38,4 @@
 ## 🛠️ Stack Tecnológico
 * **Business Intelligence:** Power BI (Power Query M, DAX, Modelado Dimensional, RLS)
 * **Bases de Datos & SQL:** Oracle SQL, SQL Server (T-SQL, Vistas)
-* **Análisis Estadístico:** R, Python, Excel Avanzado
+* **Análisis Estadístico & Lenguajes:** R, Python, Excel Avanzado
